@@ -1,19 +1,9 @@
 Oops
 ====
 
-CS307 Group Project
+This is a web application we built for CS307, It is a location based service that 
+facilitate social networking of purdue student, where they can post ongoing interesting activities
+buy or sell small commodities and meet new friends.
 
-
-Project File access instruction 
-
-Host:p3plcpnl0556.prod.phx3.secureserver.net
-
-Port:21
-
-User:peterxumsh
-
-Password:
-
-File Directory: /public_html/oops
 
 Web access: www.mingshengxu.com/oops
